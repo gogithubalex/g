@@ -1,4 +1,4 @@
 #!/bin/bash -v
 
-cd /usr/share/nginx/html/g 
+cd /var/www/html 
 sudo git pull
